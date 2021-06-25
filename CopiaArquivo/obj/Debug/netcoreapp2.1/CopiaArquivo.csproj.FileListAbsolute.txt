@@ -1,0 +1,11 @@
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\bin\Debug\netcoreapp2.1\CopiaArquivo.deps.json
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\bin\Debug\netcoreapp2.1\CopiaArquivo.runtimeconfig.json
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\bin\Debug\netcoreapp2.1\CopiaArquivo.runtimeconfig.dev.json
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\bin\Debug\netcoreapp2.1\CopiaArquivo.dll
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\bin\Debug\netcoreapp2.1\CopiaArquivo.pdb
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\obj\Debug\netcoreapp2.1\CopiaArquivo.csprojAssemblyReference.cache
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\obj\Debug\netcoreapp2.1\CopiaArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\obj\Debug\netcoreapp2.1\CopiaArquivo.AssemblyInfoInputs.cache
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\obj\Debug\netcoreapp2.1\CopiaArquivo.AssemblyInfo.cs
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\obj\Debug\netcoreapp2.1\CopiaArquivo.dll
+C:\Users\Rafael Veloso\Documents\CopiaArquivo\CopiaArquivo\CopiaArquivo\obj\Debug\netcoreapp2.1\CopiaArquivo.pdb
